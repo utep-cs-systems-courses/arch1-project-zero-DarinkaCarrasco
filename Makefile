@@ -1,4 +1,4 @@
-# comments begin with #
+# comments begin with ...#
 
 
 # for convenience, define variable $(OBJS) to list of object files
